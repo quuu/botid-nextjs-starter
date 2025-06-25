@@ -18,4 +18,5 @@ const nextConfig: NextConfig = {
   },
 };
 
+console.log("asdf");
 export default withBotId(nextConfig);
