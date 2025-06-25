@@ -9,8 +9,8 @@ importers:
   .:
     dependencies:
       botid:
-        specifier: 1.4.0
-        version: 1.4.0(next@15.3.4(react-dom@19.1.0(react@19.1.0))(react@19.1.0))(react@19.1.0)
+        specifier: 0.0.0-3beee41d-20250625221551
+        version: 0.0.0-3beee41d-20250625221551(next@15.3.4(react-dom@19.1.0(react@19.1.0))(react@19.1.0))(react@19.1.0)
       next:
         specifier: 15.3.4
         version: 15.3.4(react-dom@19.1.0(react@19.1.0))(react@19.1.0)
@@ -347,8 +347,8 @@ packages:
   '@types/react@19.1.8':
     resolution: {integrity: sha512-AwAfQ2Wa5bCx9WP8nZL2uMZWod7J7/JSplxbTmBQ5ms6QpqNYm672H0Vu9ZVKVngQ+ii4R/byguVEUZQyeg44g==}
 
-  botid@1.4.0:
-    resolution: {integrity: sha512-FVx4m7eEbLIGnFq/3MlSBRtxJAzACLuuSZ4K9VpZ4kzHzDmh03HK1BkhyE+D/qJaU2uktprorxsgJ9T0AKxk7A==}
+  botid@0.0.0-3beee41d-20250625221551:
+    resolution: {integrity: sha512-nUmYkE3VHjemE3N/4S0Gt1Xe/hceJdUJjICT+R/MvmWOBTDMelnLhTTFQ8sIheoEzIsFiUi/4DbqFAnzn6reaA==}
     peerDependencies:
       next: '*'
       react: ^18.0.0 || ^19.0.0
@@ -825,7 +825,7 @@ snapshots:
     dependencies:
       csstype: 3.1.3
 
-  botid@1.4.0(next@15.3.4(react-dom@19.1.0(react@19.1.0))(react@19.1.0))(react@19.1.0):
+  botid@0.0.0-3beee41d-20250625221551(next@15.3.4(react-dom@19.1.0(react@19.1.0))(react@19.1.0))(react@19.1.0):
     dependencies:
       react: 19.1.0
     optionalDependencies:
